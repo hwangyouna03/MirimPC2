@@ -5,5 +5,5 @@ We made it using **Java.**
 (MirimPC는 cmd를 이용하는 프로그램이지만, MirimPC2는 windowbuilder를 사용해 **gui**로 이용하는 프로그램)
 
 # 팀원
-- 오정민(1213, 2210) (개발)
-- 황윤아(1220, 2219) (개발)
+- 오정민(1213, 2210) (개발) (alsals126)
+- 황윤아(1220, 2219) (개발) (hwangyouna03)
